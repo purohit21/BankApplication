@@ -1,0 +1,10 @@
+com\mindsticks\project\web\DAO\GetConnection.class
+com\mindsticks\project\web\DAO\GetEntry.class
+com\mindsticks\project\web\DAO\UpdateEntry.class
+com\mindsticks\project\web\Contoller\UpdateDataController.class
+com\mindsticks\project\web\Contoller\DeleteDataController.class
+com\mindsticks\project\web\DAO\DeleteEntry.class
+com\mindsticks\project\web\model\Customer.class
+com\mindsticks\project\web\DAO\InsertEntry.class
+com\mindsticks\project\web\Contoller\InsertDataController.class
+com\mindsticks\project\web\Contoller\GetDataController.class
